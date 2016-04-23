@@ -1,5 +1,5 @@
 # ReputationTitle
-Generates a reputation title as-seen inthe game Ultima Online (uses same algorithm and titles).  C# static class.  .Net Core / 4.5  
+Generates a reputation title as-seen in the game Ultima Online (uses same algorithm and titles).  C# static class.  .Net Core / 4.5  
 
 In the game Ultima Online, players had a title that reflected their karma and fame.  For instance, a player with a long history of good deeds may have the title of 'Glorious' while a character with a long history of evil acts may have the title 'Dread Lord'.  This static class accepts karma and fame inputs and returns an appropiate title.  
 
